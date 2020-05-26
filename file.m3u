@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/303
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/304
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._SL1500_.jpg" group-title="24/7",24/7 Sailor Moon http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/305
-#EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/309
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man" tvg-logo="" group-title="24/7",24/7 Spider-Man http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/310
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/314
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" tvg-logo="" group-title="24/7",24/7 LazyTown http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/323
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/342
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers
+http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/303
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
+http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/304
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._SL1500_.jpg" group-title="24/7",24/7 Sailor Moon
+http://iptvactivador.online:25461/IPTVZUTVIPTV/VFpXPD2B2I/305
