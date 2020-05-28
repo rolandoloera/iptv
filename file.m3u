@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/pe_eurochannel_m.png" group-title="CINEMA Y SERIES", EUROCHANNELgit7
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/pe_eurochannel_m.png" group-title="CINEMA Y SERIES", EUROCHANNELgit8
 http://iptvactivador.online:25461/zLrLJVj3Hy/zt3I0WawMR/57
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="noimage.png" group-title="CINEMA Y SERIES", STUDIO UNIVERSAL
@@ -384,7 +384,7 @@ http://iptvactivador.online:25461/zLrLJVj3Hy/zt3I0WawMR/316
 #EXTINF:-1 tvg-id="24/7 BOB ESPONJA" tvg-logo="noimage.png" group-title="24/7", 24/7 BOB ESPONJA
 http://iptvactivador.online:25461/zLrLJVj3Hy/zt3I0WawMR/317
 
-#EXTINF:-1 tvg-id="24/7  Caillou" tvg-logo="noimage.png" group-title="24/7", 24/7  Caillougit7
+#EXTINF:-1 tvg-id="24/7  Caillou" tvg-logo="noimage.png" group-title="24/7", 24/7  Caillougit8
 http://iptvactivador.online:25461/zLrLJVj3Hy/zt3I0WawMR/318
 
 #EXTINF:-1 tvg-id="24/7 El Coyote y el Correcaminos" tvg-logo="noimage.png" group-title="24/7", 24/7 El Coyote y el Correcaminos
