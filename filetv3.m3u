@@ -1,0 +1,1140 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV 3
+http://tecnotv.club/12go/0smartv.php?c=712&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",12/8/2021
+http://tecnotv.club/12go/0smartv.php?c=712&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+http://tecnotv.club/12go/0smartv.php?c=712&f=.m3u8
+
+#EXTINF:-1 logo="http://boomerang-tv.com/gallery/pro-ts1612273194.jpg" group-title="INFANTIL",Boomerang TV
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTIL", TV Galicia Xabarín
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTIL", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", Tooncast
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", Monstruos de Verdad
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTIL", Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rJZuk0.png" group-title="INFANTIL", Mi TV
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uBm8j5.png" group-title="INFANTIL", Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTIL", Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", Educa  TV
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="INFANTIL", Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 logo="https://wowelsalvador.com/images/wow.fw.png" group-title="ENTRETENIMIENTO",Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",A&E LA
+http://tecnotv.club/12go/smartv3.php?c=728&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",A&E Network
+http://tecnotv.club/12go/smartv3.php?c=331&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",A24 Noticias
+http://tecnotv.club/12go/smartv3.php?c=41&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",A3 Series HD
+http://tecnotv.club/12go/smartv3.php?c=467&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",A3 Series Internacional HD
+http://tecnotv.club/12go/smartv3.php?c=11969&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ABC New York
+http://tecnotv.club/12go/smartv3.php?c=2540&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ADN 40
+http://tecnotv.club/12go/smartv3.php?c=229&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/playlist&file=playlist.m3u8&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",AMC HD
+http://tecnotv.club/12go/smartv3.php?c=1740&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",AMC Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=629&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",América Tv
+http://tecnotv.club/12go/smartv3.php?c=38&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Animal Planet LA
+http://tecnotv.club/12go/smartv3.php?c=729&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Animal Planet US
+http://tecnotv.club/12go/smartv3.php?c=2541&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Antena Tres HD
+http://tecnotv.club/12go/smartv3.php?c=268&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Asamblea Plenaria
+http://tecnotv.club/12go/smartv3.php?c=14983&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",AXN Latino HD
+http://tecnotv.club/12go/smartv3.php?c=637&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NBC Sports Network
+http://tecnotv.club/12go/smartv3.php?c=477&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Az Corazon FHD
+http://tecnotv.club/12go/smartv3.php?c=11138&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca 7 FHD
+http://tecnotv.club/12go/smartv3.php?c=3459&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca 7
+http://tecnotv.club/12go/smartv3.php?c=600&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Cinema
+http://tecnotv.club/12go/smartv3.php?c=474&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Click
+http://tecnotv.club/12go/smartv3.php?c=472&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Honduras
+http://tecnotv.club/12go/smartv3.php?c=518&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Mundo
+http://tecnotv.club/12go/smartv3.php?c=1624&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Uno FHD
+http://tecnotv.club/12go/smartv3.php?c=3457&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Uno HD
+http://tecnotv.club/12go/smartv3.php?c=6546&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Azteca Uno
+http://tecnotv.club/12go/smartv3.php?c=53&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Baby Tv Latino
+http://tecnotv.club/12go/smartv3.php?c=890&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Ballads
+http://tecnotv.club/12go/smartv3.php?c=14033&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Banda Max
+http://tecnotv.club/12go/smartv3.php?c=732&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",BBC America
+http://tecnotv.club/12go/smartv3.php?c=1741&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",BeIN Sports en Español
+http://tecnotv.club/12go/smartv3.php?c=909&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",BeIN Sports Liga US
+http://tecnotv.club/12go/smartv3.php?c=351&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",BeiN Sports US
+http://tecnotv.club/12go/smartv3.php?c=235&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",beIN Sports Xtra US
+http://tecnotv.club/12go/smartv3.php?c=610&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",beIN Sports Connect 4
+http://tecnotv.club/12go/smartv3.php?c=243&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",beIN Sports Connect 5
+http://tecnotv.club/12go/smartv3.php?c=2549&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",beIN Sports Connect 6
+http://tecnotv.club/12go/smartv3.php?c=2548&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",beIN Sports Connect 7
+http://tecnotv.club/12go/smartv3.php?c=11203&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",beIN Sports Connect 8
+http://tecnotv.club/12go/smartv3.php?c=242&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Bloomberg
+http://tecnotv.club/12go/smartv3.php?c=1172&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Boomerang Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=743&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Boomerang US
+http://tecnotv.club/12go/smartv3.php?c=2542&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Bravo
+http://tecnotv.club/12go/smartv3.php?c=332&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Brazzers
+http://tecnotv.club/12go/smartv3.php?c=1743&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",C5N
+http://tecnotv.club/12go/smartv3.php?c=45&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Calle 13 HD
+http://tecnotv.club/12go/smartv3.php?c=950&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Campus Tv Honduras
+http://tecnotv.club/12go/smartv3.php?c=1654&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 11 Honduras
+http://tecnotv.club/12go/smartv3.php?c=626&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 14 Tv Sur
+http://tecnotv.club/12go/smartv3.php?c=2658&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 15 UCR
+http://tecnotv.club/12go/smartv3.php?c=11993&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 26 HD
+http://tecnotv.club/12go/smartv3.php?c=42&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 3 Guatemala
+http://tecnotv.club/12go/smartv3.php?c=1658&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 4 Chuy
+http://tecnotv.club/12go/smartv3.php?c=11174&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 4 Salto HD
+http://tecnotv.club/12go/smartv3.php?c=11171&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 4 Uruguay
+http://tecnotv.club/12go/smartv3.php?c=493&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 5 FHD
+http://tecnotv.club/12go/smartv3.php?c=3460&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 5
+http://tecnotv.club/12go/smartv3.php?c=601&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 6 Honduras
+http://tecnotv.club/12go/smartv3.php?c=1652&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 7 Punta
+http://tecnotv.club/12go/smartv3.php?c=11176&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 8 Artigas
+http://tecnotv.club/12go/smartv3.php?c=11175&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 8 Durazno 
+http://tecnotv.club/12go/smartv3.php?c=11157&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 9 MX FHD
+http://tecnotv.club/12go/smartv3.php?c=3458&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 9 Salta
+http://tecnotv.club/12go/smartv3.php?c=43&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal Antigua Guatemala
+http://tecnotv.club/12go/smartv3.php?c=1639&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal Sony Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=671&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal Uno HD
+http://tecnotv.club/12go/smartv3.php?c=2451&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cartoon Network BR
+http://tecnotv.club/12go/smartv3.php?c=595&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cartoon Network ESP Norte
+http://tecnotv.club/12go/smartv3.php?c=703&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cartoon Network ESP Pacifico
+http://tecnotv.club/12go/smartv3.php?c=705&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cartoon Network ESP PanReg
+http://tecnotv.club/12go/smartv3.php?c=615&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cartoon Network ESP Sur
+http://tecnotv.club/12go/smartv3.php?c=704&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cartoon Network/Adult Swim US
+http://tecnotv.club/12go/smartv3.php?c=2534&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CBS New York
+http://tecnotv.club/12go/smartv3.php?c=347&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CBS Sports Network
+http://tecnotv.club/12go/smartv3.php?c=1763&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CDN HD
+http://tecnotv.club/12go/smartv3.php?c=10138&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CDN SportsMax HD
+http://tecnotv.club/12go/smartv3.php?c=10139&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Centroamérica TV
+http://tecnotv.club/12go/smartv3.php?c=9330&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Charrua Tv
+http://tecnotv.club/12go/smartv3.php?c=11201&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cine Dinamita
+http://tecnotv.club/12go/smartv3.php?c=2673&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cine Latino
+http://tecnotv.club/12go/smartv3.php?c=2674&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cine Sony
+http://tecnotv.club/12go/smartv3.php?c=316&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinecanal
+http://tecnotv.club/12go/smartv3.php?c=309&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinema Golden
+http://tecnotv.club/12go/smartv3.php?c=770&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinemax East US
+http://tecnotv.club/12go/smartv3.php?c=2557&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinemax West US
+http://tecnotv.club/12go/smartv3.php?c=2559&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univisión East HD
+http://tecnotv.club/12go/smartv3.php?c=379&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univision East Internet bajo
+http://tecnotv.club/12go/smartv3.php?c=16594&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univisión West HD
+http://tecnotv.club/12go/smartv3.php?c=49&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univisión Miami
+http://tecnotv.club/12go/smartv3.php?c=6048&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univisión Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=11959&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univisión Telenovelas
+http://tecnotv.club/12go/smartv3.php?c=34&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Univisión Puerto Rico
+http://tecnotv.club/12go/smartv3.php?c=11966&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo N.Y. FHD
+http://tecnotv.club/12go/smartv3.php?c=486&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo N.Y. HD
+http://tecnotv.club/12go/smartv3.php?c=16460&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo Los Angeles HD
+http://tecnotv.club/12go/smartv3.php?c=487&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo Miami HD
+http://tecnotv.club/12go/smartv3.php?c=3480&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo Chicago HD
+http://tecnotv.club/12go/smartv3.php?c=1706&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo Dallas HD
+http://tecnotv.club/12go/smartv3.php?c=2473&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo Internacional
+http://tecnotv.club/12go/smartv3.php?c=1156&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemundo Puerto Rico HD
+http://tecnotv.club/12go/smartv3.php?c=1745&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Galavisión HD
+http://tecnotv.club/12go/smartv3.php?c=17&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Unimas HD
+http://tecnotv.club/12go/smartv3.php?c=12&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega Miami FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=16592&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega Miami Internet bajo
+http://tecnotv.club/12go/smartv3.php?c=16595&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega P.RICO FHD
+http://tecnotv.club/12go/smartv3.php?c=2355&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NBC Universo FHD
+http://tecnotv.club/12go/smartv3.php?c=14&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Hola Tv HD
+http://tecnotv.club/12go/smartv3.php?c=462&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinemax
+http://tecnotv.club/12go/smartv3.php?c=617&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinemax East en Español HD
+http://tecnotv.club/12go/smartv3.php?c=13355&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",StarzEncore en Español HD
+http://tecnotv.club/12go/smartv3.php?c=13354&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",City T
+http://tecnotv.club/12go/smartv3.php?c=11362&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Claro Sports Colombia
+http://tecnotv.club/12go/smartv3.php?c=1173&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Claro Sports Latinoamerica
+http://tecnotv.club/12go/smartv3.php?c=1608&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CNBC World
+http://tecnotv.club/12go/smartv3.php?c=358&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CNBC
+http://tecnotv.club/12go/smartv3.php?c=357&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CNN en Español HD
+http://tecnotv.club/12go/smartv3.php?c=20&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CNN International
+http://tecnotv.club/12go/smartv3.php?c=762&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CNN US
+http://tecnotv.club/12go/smartv3.php?c=2543&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Colorvisión HD
+http://tecnotv.club/12go/smartv3.php?c=581&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Comedy Central Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=457&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Comedy Central US HD
+http://tecnotv.club/12go/smartv3.php?c=9298&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cp24 News
+http://tecnotv.club/12go/smartv3.php?c=14191&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cuatro HD
+http://tecnotv.club/12go/smartv3.php?c=269&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",D Television HD
+http://tecnotv.club/12go/smartv3.php?c=11368&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",De Película Clásico
+http://tecnotv.club/12go/smartv3.php?c=318&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",De Película Plus
+http://tecnotv.club/12go/smartv3.php?c=317&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DeporTv
+http://tecnotv.club/12go/smartv3.php?c=50&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Digital 15
+http://tecnotv.club/12go/smartv3.php?c=572&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DirecTV Sports Latinoamérica FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=6031&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DirecTv Sports Argentina FHD
+http://tecnotv.club/12go/smartv3.php?c=2456&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DirecTV Sports Colombia HD
+http://tecnotv.club/12go/smartv3.php?c=2281&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DirecTV Sports 2 HD
+http://tecnotv.club/12go/smartv3.php?c=721&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DirecTV Sports Plus HD
+http://tecnotv.club/12go/smartv3.php?c=574&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Channel East HD
+http://tecnotv.club/12go/smartv3.php?c=10983&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Channel Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=464&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery en Español HD
+http://tecnotv.club/12go/smartv3.php?c=2560&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Familia HD
+http://tecnotv.club/12go/smartv3.php?c=2538&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Family
+http://tecnotv.club/12go/smartv3.php?c=2544&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Home&Health
+http://tecnotv.club/12go/smartv3.php?c=620&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Investigacion HD
+http://tecnotv.club/12go/smartv3.php?c=621&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Investigation US
+http://tecnotv.club/12go/smartv3.php?c=2555&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Kids Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=753&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Science Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=754&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Science US
+http://tecnotv.club/12go/smartv3.php?c=2551&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Theater
+http://tecnotv.club/12go/smartv3.php?c=622&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery TLC
+http://tecnotv.club/12go/smartv3.php?c=756&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery Turbo
+http://tecnotv.club/12go/smartv3.php?c=623&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Discovery World
+http://tecnotv.club/12go/smartv3.php?c=10109&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Disney Channel Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=759&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Disney Junior Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=760&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Disney XD Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=761&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Distrito Comedia
+http://tecnotv.club/12go/smartv3.php?c=9250&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",DW en Español
+http://tecnotv.club/12go/smartv3.php?c=568&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",E! Entertainment Television
+http://tecnotv.club/12go/smartv3.php?c=334&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Ecuavisa Full HD
+http://tecnotv.club/12go/smartv3.php?c=2447&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El Canal del Futbol Ecuador
+http://tecnotv.club/12go/smartv3.php?c=14682&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El Gourmet
+http://tecnotv.club/12go/smartv3.php?c=460&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El nueve
+http://tecnotv.club/12go/smartv3.php?c=1663&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El tiempo
+http://tecnotv.club/12go/smartv3.php?c=259&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El Trece HD
+http://tecnotv.club/12go/smartv3.php?c=40&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Encuentro
+http://tecnotv.club/12go/smartv3.php?c=47&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN Deportes FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=377&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN Deportes Internet bajo
+http://tecnotv.club/12go/smartv3.php?c=16597&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN Latinoamérica FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=1560&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN 2 Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=606&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN 2 US
+http://tecnotv.club/12go/smartv3.php?c=2537&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN 3 Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=607&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN Extra Latinoamérica HD 
+http://tecnotv.club/12go/smartv3.php?c=11137&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN 2 MX
+http://tecnotv.club/12go/smartv3.php?c=1562&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN US
+http://tecnotv.club/12go/smartv3.php?c=2536&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Estrella Tv HD
+http://tecnotv.club/12go/smartv3.php?c=2452&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Estrellas SD
+http://tecnotv.club/12go/smartv3.php?c=1668&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Eurosport 1
+http://tecnotv.club/12go/smartv3.php?c=885&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Eurosport 2
+http://tecnotv.club/12go/smartv3.php?c=886&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",EVTV Miami
+http://tecnotv.club/12go/smartv3.php?c=2300&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Foro Tv HD
+http://tecnotv.club/12go/smartv3.php?c=58&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FOX 11 L.A
+http://tecnotv.club/12go/smartv3.php?c=591&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",☆FoxDeportes FHD 60☆
+http://tecnotv.club/12go/smartv3.php?c=26&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FoxDeportes Internert bajo
+http://tecnotv.club/12go/smartv3.php?c=16596&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Deportes HD
+http://tecnotv.club/12go/smartv3.php?c=12790&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports 1 US
+http://tecnotv.club/12go/smartv3.php?c=250&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports 2 Argentina
+http://tecnotv.club/12go/smartv3.php?c=239&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports 2 México
+http://tecnotv.club/12go/smartv3.php?c=505&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports 2 US
+http://tecnotv.club/12go/smartv3.php?c=251&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports 3 Argentina
+http://tecnotv.club/12go/smartv3.php?c=820&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports 3 México
+http://tecnotv.club/12go/smartv3.php?c=894&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports Argentina
+http://tecnotv.club/12go/smartv3.php?c=238&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",☆Fox Sports Chile☆
+http://tecnotv.club/12go/smartv3.php?c=233&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports Mexico
+http://tecnotv.club/12go/smartv3.php?c=893&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sports Premium (Argentina)
+http://tecnotv.club/12go/smartv3.php?c=456&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FOX New York
+http://tecnotv.club/12go/smartv3.php?c=327&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Business Network
+http://tecnotv.club/12go/smartv3.php?c=360&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",France 24 News
+http://tecnotv.club/12go/smartv3.php?c=445&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fuse
+http://tecnotv.club/12go/smartv3.php?c=337&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FX Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=768&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox News
+http://tecnotv.club/12go/smartv3.php?c=12729&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FX US HD
+http://tecnotv.club/12go/smartv3.php?c=338&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FXM Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=769&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FXX US HD
+http://tecnotv.club/12go/smartv3.php?c=340&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",FYI Channel
+http://tecnotv.club/12go/smartv3.php?c=341&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Gama Tv Full HD
+http://tecnotv.club/12go/smartv3.php?c=2449&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Game Show Network
+http://tecnotv.club/12go/smartv3.php?c=339&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Actions
+http://tecnotv.club/12go/smartv3.php?c=11418&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Cine-Mexicano
+http://tecnotv.club/12go/smartv3.php?c=12176&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Clasicos
+http://tecnotv.club/12go/smartv3.php?c=11420&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Classic
+http://tecnotv.club/12go/smartv3.php?c=12487&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Disney-Family
+http://tecnotv.club/12go/smartv3.php?c=11417&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Disney-Pixar
+http://tecnotv.club/12go/smartv3.php?c=11419&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Disney
+http://tecnotv.club/12go/smartv3.php?c=11064&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Familia
+http://tecnotv.club/12go/smartv3.php?c=11395&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-HBO-Lat
+http://tecnotv.club/12go/smartv3.php?c=11448&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-HBO-Xtreme
+http://tecnotv.club/12go/smartv3.php?c=11449&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Horror
+http://tecnotv.club/12go/smartv3.php?c=11156&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Latino
+http://tecnotv.club/12go/smartv3.php?c=12578&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Marvel2
+http://tecnotv.club/12go/smartv3.php?c=11018&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Marvel
+http://tecnotv.club/12go/smartv3.php?c=11038&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-NetFlix
+http://tecnotv.club/12go/smartv3.php?c=11416&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Net
+http://tecnotv.club/12go/smartv3.php?c=11212&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-StarzW
+http://tecnotv.club/12go/smartv3.php?c=12036&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Genesis-Starz
+http://tecnotv.club/12go/smartv3.php?c=10104&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Glitz
+http://tecnotv.club/12go/smartv3.php?c=749&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Globo Tv Honduras
+http://tecnotv.club/12go/smartv3.php?c=1655&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Gol Tv Español
+http://tecnotv.club/12go/smartv3.php?c=236&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Golden Plus HD
+http://tecnotv.club/12go/smartv3.php?c=618&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Golden Premier HD
+http://tecnotv.club/12go/smartv3.php?c=771&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",GOLTV Ecuador
+http://tecnotv.club/12go/smartv3.php?c=2460&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Guatevisión
+http://tecnotv.club/12go/smartv3.php?c=403&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",H2 Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=951&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Hallmark Channel
+http://tecnotv.club/12go/smartv3.php?c=801&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Hallmark Movies and Mysteries
+http://tecnotv.club/12go/smartv3.php?c=333&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO 2 Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=636&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO East HD
+http://tecnotv.club/12go/smartv3.php?c=11464&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO Family Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=632&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=688&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO Mundi HD
+http://tecnotv.club/12go/smartv3.php?c=785&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO Pop HD
+http://tecnotv.club/12go/smartv3.php?c=1807&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HBO Signature Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=1169&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HCH Honduras
+http://tecnotv.club/12go/smartv3.php?c=1640&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",HGTV HD
+http://tecnotv.club/12go/smartv3.php?c=35&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Hispan Tv
+http://tecnotv.club/12go/smartv3.php?c=10976&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",History Channel Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=454&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Hustler
+http://tecnotv.club/12go/smartv3.php?c=818&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Imagen TV
+http://tecnotv.club/12go/smartv3.php?c=1582&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",La Dos HD
+http://tecnotv.club/12go/smartv3.php?c=267&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",La Sexta HD
+http://tecnotv.club/12go/smartv3.php?c=271&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",La Uno HD
+http://tecnotv.club/12go/smartv3.php?c=266&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Las Estrellas  HD -2Hrs
+http://tecnotv.club/12go/smartv3.php?c=11006&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Las Estrellas FHD
+http://tecnotv.club/12go/smartv3.php?c=3463&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Las Estrellas HD
+http://tecnotv.club/12go/smartv3.php?c=54&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Latina Tv Paysandu
+http://tecnotv.club/12go/smartv3.php?c=11173&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Lifetime Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=245&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Lifetime US HD
+http://tecnotv.club/12go/smartv3.php?c=8018&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Local 4
+http://tecnotv.club/12go/smartv3.php?c=12013&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",M:I Saga
+http://tecnotv.club/12go/smartv3.php?c=12242&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Maroñas Entertainment
+http://tecnotv.club/12go/smartv3.php?c=11178&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mas Chic FHD
+http://tecnotv.club/12go/smartv3.php?c=11141&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Maya Tv
+http://tecnotv.club/12go/smartv3.php?c=11366&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega Miami
+http://tecnotv.club/12go/smartv3.php?c=11965&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega Tv HD
+http://tecnotv.club/12go/smartv3.php?c=11364&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega Vision Canal 19
+http://tecnotv.club/12go/smartv3.php?c=2641&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega Vision Canal 21
+http://tecnotv.club/12go/smartv3.php?c=2642&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mexico Travel Channel
+http://tecnotv.club/12go/smartv3.php?c=12214&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Microvisión
+http://tecnotv.club/12go/smartv3.php?c=579&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mil X Hora Tv
+http://tecnotv.club/12go/smartv3.php?c=11179&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal F1 FHD
+http://tecnotv.club/12go/smartv3.php?c=371&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Movistar La Liga FHD
+http://tecnotv.club/12go/smartv3.php?c=10981&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Movistar Liga de Campeones
+http://tecnotv.club/12go/smartv3.php?c=883&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",MTV Hits
+http://tecnotv.club/12go/smartv3.php?c=1592&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",MTV Latino HD
+http://tecnotv.club/12go/smartv3.php?c=613&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",MTV Live HD
+http://tecnotv.club/12go/smartv3.php?c=1597&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Multimedios HD
+http://tecnotv.club/12go/smartv3.php?c=3497&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Natgeo Kids Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=777&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NatGeo Wild East HD
+http://tecnotv.club/12go/smartv3.php?c=343&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NatGeo Wild Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=779&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",National Geographic East HD
+http://tecnotv.club/12go/smartv3.php?c=344&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",National Geographic Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=778&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NBA
+http://tecnotv.club/12go/smartv3.php?c=246&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NBC Miami
+http://tecnotv.club/12go/smartv3.php?c=364&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NBC New York
+http://tecnotv.club/12go/smartv3.php?c=330&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NFL Network
+http://tecnotv.club/12go/smartv3.php?c=482&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Nick Junior Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=611&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Nick Music Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=784&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Nickelodeon Latino HD
+http://tecnotv.club/12go/smartv3.php?c=414&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Noticias Locales 1
+http://tecnotv.club/12go/smartv3.php?c=11359&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Noticias Locales 2
+http://tecnotv.club/12go/smartv3.php?c=11360&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Once Tv
+http://tecnotv.club/12go/smartv3.php?c=226&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Oromar
+http://tecnotv.club/12go/smartv3.php?c=397&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",OWN HD
+http://tecnotv.club/12go/smartv3.php?c=2545&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Oxygen
+http://tecnotv.club/12go/smartv3.php?c=346&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Paramount Network Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=630&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Pasiones HD
+http://tecnotv.club/12go/smartv3.php?c=1641&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",PBS New York
+http://tecnotv.club/12go/smartv3.php?c=345
+
+&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Reggaeton Latino 2
+http://tecnotv.club/12go/smartv3.php?c=13772&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Reggaeton Latino
+http://tecnotv.club/12go/smartv3.php?c=13771&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Regional 2
+http://tecnotv.club/12go/smartv3.php?c=16311&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Regional Mexicano
+http://tecnotv.club/12go/smartv3.php?c=13766&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Repretel 11 HD
+http://tecnotv.club/12go/smartv3.php?c=11992&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Repretel 2 HD
+http://tecnotv.club/12go/smartv3.php?c=11996&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Repretel 4 HD
+http://tecnotv.club/12go/smartv3.php?c=11995&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Repretel 6 HD
+http://tecnotv.club/12go/smartv3.php?c=11994&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Ritmoson
+http://tecnotv.club/12go/smartv3.php?c=3461&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RT Documentales
+http://tecnotv.club/12go/smartv3.php?c=6545&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RT En Español
+http://tecnotv.club/12go/smartv3.php?c=453&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RTS HD
+http://tecnotv.club/12go/smartv3.php?c=2450&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RTV
+http://tecnotv.club/12go/smartv3.php?c=11200&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Saeta Canal 10
+http://tecnotv.club/12go/smartv3.php?c=515&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Saga Fast & Furios
+http://tecnotv.club/12go/smartv3.php?c=11047&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",San Carlos HD
+http://tecnotv.club/12go/smartv3.php?c=11163
+
+&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Space HD
+http://tecnotv.club/12go/smartv3.php?c=706&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Space Sur HD
+http://tecnotv.club/12go/smartv3.php?c=1768&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Sport 2 Local
+http://tecnotv.club/12go/smartv3.php?c=12011&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Sport Local 1
+http://tecnotv.club/12go/smartv3.php?c=12010&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tennis Channel
+http://tecnotv.club/12go/smartv3.php?c=11363&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Sports Local
+http://tecnotv.club/12go/smartv3.php?c=12728&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",SporTV 2
+http://tecnotv.club/12go/smartv3.php?c=21&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",SporTV 3
+http://tecnotv.club/12go/smartv3.php?c=1630&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Action Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=763&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Channel Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=646&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Cinema Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=695&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Classics Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=696&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Comedy Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=1602&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Fun Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=1601&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Hits Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=766&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Life Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=2647&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Star Series Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=668&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Studio Universal
+http://tecnotv.club/12go/smartv3.php?c=650&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Sulavision
+http://tecnotv.club/12go/smartv3.php?c=11369&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Super Canal
+http://tecnotv.club/12go/smartv3.php?c=6543&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",SyFy Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=619&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",SyFy US HD
+http://tecnotv.club/12go/smartv3.php?c=348&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TBS Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=651&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TBS US
+http://tecnotv.club/12go/smartv3.php?c=2552&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TC Mi Canal
+http://tecnotv.club/12go/smartv3.php?c=396&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TCM Latino
+http://tecnotv.club/12go/smartv3.php?c=652&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TCS Canal +
+http://tecnotv.club/12go/smartv3.php?c=2643&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TCS Canal 2
+http://tecnotv.club/12go/smartv3.php?c=2638&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TCS Canal 4
+http://tecnotv.club/12go/smartv3.php?c=2639&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TCS Canal 6
+http://tecnotv.club/12go/smartv3.php?c=2644&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tele el Salvador
+http://tecnotv.club/12go/smartv3.php?c=2636&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleamazonas HD
+http://tecnotv.club/12go/smartv3.php?c=2448&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telecadena Honduras
+http://tecnotv.club/12go/smartv3.php?c=10071&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleceiba Canal 7 Honduras
+http://tecnotv.club/12go/smartv3.php?c=491&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telecentro
+http://tecnotv.club/12go/smartv3.php?c=587&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telecinco HD
+http://tecnotv.club/12go/smartv3.php?c=270&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teledoce Uruguay
+http://tecnotv.club/12go/smartv3.php?c=567&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telefe HD
+http://tecnotv.club/12go/smartv3.php?c=469&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleformula
+http://tecnotv.club/12go/smartv3.php?c=227&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telehit
+http://tecnotv.club/12go/smartv3.php?c=3462&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemicro
+http://tecnotv.club/12go/smartv3.php?c=571&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleprogreso Honduras
+http://tecnotv.club/12go/smartv3.php?c=1749&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleradio América
+http://tecnotv.club/12go/smartv3.php?c=576&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telered
+http://tecnotv.club/12go/smartv3.php?c=2664&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telesistema
+http://tecnotv.club/12go/smartv3.php?c=580&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teletica 7
+http://tecnotv.club/12go/smartv3.php?c=2665&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleuniverso
+http://tecnotv.club/12go/smartv3.php?c=450&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleuno
+http://tecnotv.club/12go/smartv3.php?c=2666&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televicentro HD
+http://tecnotv.club/12go/smartv3.php?c=1656&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisiete Guatemala
+http://tecnotv.club/12go/smartv3.php?c=1766&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Television Nacional
+http://tecnotv.club/12go/smartv3.php?c=11177&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",The CW New York
+http://tecnotv.club/12go/smartv3.php?c=249&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Ticavisión 52
+http://tecnotv.club/12go/smartv3.php?c=11997&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tigo Sports Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=2547&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TLNovelas
+http://tecnotv.club/12go/smartv3.php?c=10993&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TN23 Guatemala
+http://tecnotv.club/12go/smartv3.php?c=1765&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNH Tv
+http://tecnotv.club/12go/smartv3.php?c=11365&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT BR
+http://tecnotv.club/12go/smartv3.php?c=479&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT Latinoamérica HD
+http://tecnotv.club/12go/smartv3.php?c=306&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT Series 1
+http://tecnotv.club/12go/smartv3.php?c=307&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT Series 2
+http://tecnotv.club/12go/smartv3.php?c=308&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT Sports (Argentina)
+http://tecnotv.club/12go/smartv3.php?c=455&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT US
+http://tecnotv.club/12go/smartv3.php?c=2535&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TN
+http://tecnotv.club/12go/smartv3.php?c=46&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Todo Deportes HD
+http://tecnotv.club/12go/smartv3.php?c=11367&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tooncast Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=795&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Toros Tv HD
+http://tecnotv.club/12go/smartv3.php?c=841&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TruTV Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=796&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TruTV US
+http://tecnotv.club/12go/smartv3.php?c=2554&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TSi Honduras
+http://tecnotv.club/12go/smartv3.php?c=519&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",☆TUDN FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=18&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TUDN Internet bajo
+http://tecnotv.club/12go/smartv3.php?c=16593&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TUDN MX FHD
+http://tecnotv.club/12go/smartv3.php?c=11142&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TUDN US HD
+http://tecnotv.club/12go/smartv3.php?c=12793&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tv Ciudad
+http://tecnotv.club/12go/smartv3.php?c=11199&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tv Pública HD
+http://tecnotv.club/12go/smartv3.php?c=39&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVE España
+http://tecnotv.club/12go/smartv3.php?c=11091&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVES Canal 10
+http://tecnotv.club/12go/smartv3.php?c=2646&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TvMax
+http://tecnotv.club/12go/smartv3.php?c=9329&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVN Panama
+http://tecnotv.club/12go/smartv3.php?c=9328&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVS Sonsonate
+http://tecnotv.club/12go/smartv3.php?c=7862&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVv Venezuela
+http://tecnotv.club/12go/smartv3.php?c=468&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TyC HD
+http://tecnotv.club/12go/smartv3.php?c=2463&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TyC Sports
+http://tecnotv.club/12go/smartv3.php?c=51&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",UFC Fight Pass
+http://tecnotv.club/12go/smartv3.php?c=492&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Unicable
+http://tecnotv.club/12go/smartv3.php?c=598&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Universal Channel Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=726&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Uruguay Natural
+http://tecnotv.club/12go/smartv3.php?c=15990&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",USA Network
+http://tecnotv.club/12go/smartv3.php?c=350&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Venus
+http://tecnotv.club/12go/smartv3.php?c=264&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",VH1 HD
+http://tecnotv.club/12go/smartv3.php?c=458&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Vivo Canal 3 HD
+http://tecnotv.club/12go/smartv3.php?c=11204&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",VOS Tv Nicaragua
+http://tecnotv.club/12go/smartv3.php?c=409&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",VTV HD
+http://tecnotv.club/12go/smartv3.php?c=1952&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",VTV Honduras
+http://tecnotv.club/12go/smartv3.php?c=1660&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",VTV Plus 
+http://tecnotv.club/12go/smartv3.php?c=11155&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Wapa PR
+http://tecnotv.club/12go/smartv3.php?c=11491&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Warner Channel Latinoamérica
+http://tecnotv.club/12go/smartv3.php?c=798&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",WOW Tv
+http://tecnotv.club/12go/smartv3.php?c=2648&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",► Canal 13 VHD
+http://tecnotv.club/12go/smartv3.php?c=328&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",► Canal 13c VHD
+http://tecnotv.club/12go/smartv3.php?c=10115&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",► CNN Chile VHD
+http://tecnotv.club/12go/smartv3.php?c=261&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",► REC Tv VHD
+http://tecnotv.club/12go/smartv3.php?c=10127&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",América FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=19&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ATV FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=448&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ATV+ FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=2676&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 13 FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=10027&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal N FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=582&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Chilevisión FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=10011&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",ESPN 2 Perú FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=7369&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Exitosa FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=2356&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Fox Sport Perú FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=2619&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Gol Perú FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=1718&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",La Red FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=10026&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Latina FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=27&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mega FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=10025&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Movistar Deportes Perú FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=817&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Panaméricana FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=28&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RPP FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=2467&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tv Perú HD ☆
+http://tecnotv.club/12go/smartv3.php?c=29&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVN FHD ☆
+http://tecnotv.club/12go/smartv3.php?c=10103&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Willax HD ☆
+http://tecnotv.club/12go/smartv3.php?c=8017&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Sky Sports Latinoamerica
+http://tecnotv.club/12go/smartv3.php?c=16442
+&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Caracol FHD              
+http://tecnotv.club/12go/smartv3.php?c=507&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",CARACOL  HD2              
+http://tecnotv.club/12go/smartv3.php?c=321&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Caracol HD (internet debil)
+http://tecnotv.club/12go/smartv3.php?c=16415&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Caracol HD2 (internet debil)
+http://tecnotv.club/12go/smartv3.php?c=16418&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Caracol Internacional HD
+http://tecnotv.club/12go/smartv3.php?c=11422&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal Uno FHD               
+http://tecnotv.club/12go/smartv3.php?c=381&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",City Tv Bogota                 
+http://tecnotv.club/12go/smartv3.php?c=322&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RCN FHD
+http://tecnotv.club/12go/smartv3.php?c=320&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RCN (Internet Débil)
+http://tecnotv.club/12go/smartv3.php?c=16419&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RCN HD2
+http://tecnotv.club/12go/smartv3.php?c=319&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RCN Novelas
+http://tecnotv.club/12go/smartv3.php?c=1160&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RCN Nuestra Tele
+http://tecnotv.club/12go/smartv3.php?c=413&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telepacifico FHD            
+http://tecnotv.club/12go/smartv3.php?c=315&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",WinSport + FHD              
+http://tecnotv.club/12go/smartv3.php?c=22&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",WinSports FHD               
+http://tecnotv.club/12go/smartv3.php?c=566&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* Band FHD *
+http://tecnotv.club/12go/smartv3.php?c=12322&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* CNN Brasil FHD *
+http://tecnotv.club/12go/smartv3.php?c=12324&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* Globo FHD *
+http://tecnotv.club/12go/smartv3.php?c=12318&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* Record FHD *
+http://tecnotv.club/12go/smartv3.php?c=12319&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* Rede Gospel FHD *
+http://tecnotv.club/12go/smartv3.php?c=12320&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* Rede Tv SD *
+http://tecnotv.club/12go/smartv3.php?c=12323&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",* SBT FHD *
+http://tecnotv.club/12go/smartv3.php?c=12321&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",13+ HD
+http://tecnotv.club/12go/smartv3.php?c=13364&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",24 Horas
+http://tecnotv.club/12go/smartv3.php?c=1154&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",80's
+http://tecnotv.club/12go/smartv3.php?c=16434&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",90s
+http://tecnotv.club/12go/smartv3.php?c=16424&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Alternative
+http://tecnotv.club/12go/smartv3.php?c=16425&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Brits + Hits
+http://tecnotv.club/12go/smartv3.php?c=16436&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 12 (El Salvador)
+http://tecnotv.club/12go/smartv3.php?c=15789&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 12 Nicavision
+http://tecnotv.club/12go/smartv3.php?c=16484&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 13i
+http://tecnotv.club/12go/smartv3.php?c=16571&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 25 RD
+http://tecnotv.club/12go/smartv3.php?c=16500&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 4 RD
+http://tecnotv.club/12go/smartv3.php?c=16497&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 6 Guadalajara
+http://tecnotv.club/12go/smartv3.php?c=16570&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 6 Monterrey
+http://tecnotv.club/12go/smartv3.php?c=16568&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal 6 Nicaragua
+http://tecnotv.club/12go/smartv3.php?c=16483&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Canal Capital
+http://tecnotv.club/12go/smartv3.php?c=7863&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Cinevisión
+http://tecnotv.club/12go/smartv3.php?c=16498&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Disney Channel East HD
+http://tecnotv.club/12go/smartv3.php?c=13352&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El Nueve Aguascalientes
+http://tecnotv.club/12go/smartv3.php?c=16550&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",El Tiempo HD
+http://tecnotv.club/12go/smartv3.php?c=10128&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Enlace
+http://tecnotv.club/12go/smartv3.php?c=12269&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Hip-Hop & Rb
+http://tecnotv.club/12go/smartv3.php?c=16429&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",La Kalle Tv 96.9 Bogota
+http://tecnotv.club/12go/smartv3.php?c=6951&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Mexicano
+http://tecnotv.club/12go/smartv3.php?c=16426&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",MTV East HD
+http://tecnotv.club/12go/smartv3.php?c=16246&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",NTN24 Noticias +
+http://tecnotv.club/12go/smartv3.php?c=24&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Perú Mágico
+http://tecnotv.club/12go/smartv3.php?c=4122&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Pop Hits 
+http://tecnotv.club/12go/smartv3.php?c=16427&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Pop Latino
+http://tecnotv.club/12go/smartv3.php?c=16433&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Radio Formula
+http://tecnotv.club/12go/smartv3.php?c=16481&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Rock
+http://tecnotv.club/12go/smartv3.php?c=16431&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",RPP Radio 
+http://tecnotv.club/12go/smartv3.php?c=11098&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Señal Colombia      *
+http://tecnotv.club/12go/smartv3.php?c=11315&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Soft Rock Y2k
+http://tecnotv.club/12go/smartv3.php?c=16435&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleantioquia
+http://tecnotv.club/12go/smartv3.php?c=323&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telecafe
+http://tecnotv.club/12go/smartv3.php?c=5560&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telecaribe Full HD
+http://tecnotv.club/12go/smartv3.php?c=677&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telemedellin
+http://tecnotv.club/12go/smartv3.php?c=1692&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Teleunión
+http://tecnotv.club/12go/smartv3.php?c=16499&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Telever
+http://tecnotv.club/12go/smartv3.php?c=16548&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Cd Juarez
+http://tecnotv.club/12go/smartv3.php?c=16569&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Chihuahua
+http://tecnotv.club/12go/smartv3.php?c=16554&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa del Bajio (Guanajuato)
+http://tecnotv.club/12go/smartv3.php?c=16559&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Estado de Mexico
+http://tecnotv.club/12go/smartv3.php?c=16558&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Guerrero (Acapulco)
+http://tecnotv.club/12go/smartv3.php?c=16560&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Jalisco (Guadalajara)
+http://tecnotv.club/12go/smartv3.php?c=16561&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Laguna
+http://tecnotv.club/12go/smartv3.php?c=16556&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Mexicali
+http://tecnotv.club/12go/smartv3.php?c=16552&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Monterrey
+http://tecnotv.club/12go/smartv3.php?c=16563&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Morelos
+http://tecnotv.club/12go/smartv3.php?c=16562&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Piedras Negras
+http://tecnotv.club/12go/smartv3.php?c=16555&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Puebla
+http://tecnotv.club/12go/smartv3.php?c=16549&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Saltillo
+http://tecnotv.club/12go/smartv3.php?c=16557&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Sonora
+http://tecnotv.club/12go/smartv3.php?c=16564&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Tamaulipas (del Golfo)
+http://tecnotv.club/12go/smartv3.php?c=16565&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Tamaulipas(Matamoros)
+http://tecnotv.club/12go/smartv3.php?c=16566&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Tijuana
+http://tecnotv.club/12go/smartv3.php?c=16553&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Televisa Zacatecas
+http://tecnotv.club/12go/smartv3.php?c=16567&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TLC East HD
+http://tecnotv.club/12go/smartv3.php?c=640&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT Sports 3 HD (Chile)
+http://tecnotv.club/12go/smartv3.php?c=676&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TNT Sports HD (Chile)
+http://tecnotv.club/12go/smartv3.php?c=244&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Top Hits
+http://tecnotv.club/12go/smartv3.php?c=16428&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Trop group-title="Lista 06",Bachata group-title="Lista 06",Salsa
+http://tecnotv.club/12go/smartv3.php?c=16432&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Tv Chile
+http://tecnotv.club/12go/smartv3.php?c=375&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",TVO Canal 23
+http://tecnotv.club/12go/smartv3.php?c=15804&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Urbana&Reggaeton
+http://tecnotv.club/12go/smartv3.php?c=16430&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",Viva Nicaragua 13
+http://tecnotv.club/12go/smartv3.php?c=16485&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06", LN+ 
+http://tecnotv.club/12go/smartv3.php?c=565&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",24 Hrs Esp
+http://tecnotv.club/12go/smartv3.php?c=275&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",5 TVC El Lider Honduras
+http://tecnotv.club/12go/smartv3.php?c=520
+
+&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(Main Feed) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12704&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(Pit Tracker) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12705&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(Driver Tracker) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12706&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(Data) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12707&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(RIC - Helmet Cam) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12708&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(NOR - Helmet Cam) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12709&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(VET - Helmet Cam) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12710&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(LAT - Helmet Cam) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12711&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(RAI - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12712&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(MAZ - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12713&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(GAS - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12714&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(PER - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12715&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(ALO - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12716&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(LEC - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12717&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(STR - Helmet Cam) Formula 1 - Carrera
+http://tecnotv.club/12go/smartv3.php?c=12718&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(TSU - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12719&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(OCO - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12720&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(VER - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12721&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(HAM- Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12722&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(MSC - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12723&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(SAI - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12724&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(RUS - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12725&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(BOT - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12726&file=playlist.m3u8
+#EXTINF:-1 group-title="Lista 06",(GIO - Helmet Cam) Formula 1 - Carrera  
+http://tecnotv.club/12go/smartv3.php?c=12727
