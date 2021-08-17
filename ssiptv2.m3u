@@ -1,0 +1,471 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="KIDS",SSIPTV 2
+https://spinoff.link/ago15/ssiptv.php?c=56
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="KIDS",15/8/2021
+https://spinoff.link/ago15/ssiptv.php?c=56
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="KIDS",Telegram: @Tecnotv
+https://spinoff.link/ago15/ssiptv.php?c=56
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTIL", TV Galicia Xabarín
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTIL", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", Tooncast
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", Monstruos de Verdad
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTIL", Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rJZuk0.png" group-title="INFANTIL", Mi TV
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uBm8j5.png" group-title="INFANTIL", Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTIL", Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", Educa  TV
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="INFANTIL", Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Bitme" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Bitme
+https://spinoff.link/ago15/ssiptv2.php?c=354
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Locomotion" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Locomotion
+https://spinoff.link/ago15/ssiptv2.php?c=355
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Tooncast" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Tooncast
+https://spinoff.link/ago15/ssiptv2.php?c=107
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Cartoon Network
+https://spinoff.link/ago15/ssiptv2.php?c=18
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Discovery Kids
+https://spinoff.link/ago15/ssiptv2.php?c=38
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Disney" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Disney
+https://spinoff.link/ago15/ssiptv2.php?c=43
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Disney JR" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Disney JR
+https://spinoff.link/ago15/ssiptv2.php?c=44
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Disney XD" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Disney XD
+https://spinoff.link/ago15/ssiptv2.php?c=45
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Nickelodeon
+https://spinoff.link/ago15/ssiptv2.php?c=121
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nick Jr" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Nick Jr
+https://spinoff.link/ago15/ssiptv2.php?c=122
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nick 2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Nick 2
+https://spinoff.link/ago15/ssiptv2.php?c=123
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nat Geo Kids Mex" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Nat Geo Kids Mex
+https://spinoff.link/ago15/ssiptv2.php?c=126
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="INFANTIL",Nat Geo Kids
+https://spinoff.link/ago15/ssiptv2.php?c=127
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Animal Planet
+https://spinoff.link/ago15/ssiptv2.php?c=3
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Channel
+https://spinoff.link/ago15/ssiptv2.php?c=36
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Home and Health
+https://spinoff.link/ago15/ssiptv2.php?c=37
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Science" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Science
+https://spinoff.link/ago15/ssiptv2.php?c=39
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Turbo
+https://spinoff.link/ago15/ssiptv2.php?c=41
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery World" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery World
+https://spinoff.link/ago15/ssiptv2.php?c=42
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Theater
+https://spinoff.link/ago15/ssiptv2.php?c=40
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Lifetime" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Lifetime
+https://spinoff.link/ago15/ssiptv2.php?c=51
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Investigation Discovery
+https://spinoff.link/ago15/ssiptv2.php?c=52
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="H2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",H2
+https://spinoff.link/ago15/ssiptv2.php?c=55
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="History Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",History Channel
+https://spinoff.link/ago15/ssiptv2.php?c=56
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Nat Geo Wild
+https://spinoff.link/ago15/ssiptv2.php?c=124
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Nat Geo Mex" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Nat Geo Mex
+https://spinoff.link/ago15/ssiptv2.php?c=125
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="National Geographic Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",National Geographic Channel
+https://spinoff.link/ago15/ssiptv2.php?c=128
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CULTURA",Discovery Civilization
+https://spinoff.link/ago15/ssiptv2.php?c=325
+
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Paramount Channel
+https://spinoff.link/ago15/ssiptv2.php?c=120
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Multipremier" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Multipremier
+https://spinoff.link/ago15/ssiptv2.php?c=129
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="AMC" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",AMC
+https://spinoff.link/ago15/ssiptv2.php?c=6
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="A&E" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",A&E
+https://spinoff.link/ago15/ssiptv2.php?c=1
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="AXN" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",AXN
+https://spinoff.link/ago15/ssiptv2.php?c=2
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cine Canal" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Cine Canal
+https://spinoff.link/ago15/ssiptv2.php?c=19
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cine Latino" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Cine Latino
+https://spinoff.link/ago15/ssiptv2.php?c=20
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Cinema Dinamita
+https://spinoff.link/ago15/ssiptv2.php?c=21
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cinema Plus" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Cinema Plus
+https://spinoff.link/ago15/ssiptv2.php?c=22
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="City TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",City TV
+https://spinoff.link/ago15/ssiptv2.php?c=23
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Claro Cinema" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Claro Cinema
+https://spinoff.link/ago15/ssiptv2.php?c=24
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",De Pelicula Plus
+https://spinoff.link/ago15/ssiptv2.php?c=34
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Golden" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Golden
+https://spinoff.link/ago15/ssiptv2.php?c=67
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fx Movie Mex" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fx Movie Mex
+https://spinoff.link/ago15/ssiptv2.php?c=69
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox
+https://spinoff.link/ago15/ssiptv2.php?c=91
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="FX" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",FX
+https://spinoff.link/ago15/ssiptv2.php?c=92
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Euro Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Euro Channel
+https://spinoff.link/ago15/ssiptv2.php?c=93
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Warner Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Warner Channel
+https://spinoff.link/ago15/ssiptv2.php?c=99
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Universal Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Universal Channel
+https://spinoff.link/ago15/ssiptv2.php?c=103
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="TNT Series" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",TNT Series
+https://spinoff.link/ago15/ssiptv2.php?c=109
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",TNT
+https://spinoff.link/ago15/ssiptv2.php?c=110
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="TLC" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",TLC
+https://spinoff.link/ago15/ssiptv2.php?c=111
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="TCM" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",TCM
+https://spinoff.link/ago15/ssiptv2.php?c=112
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="TBS" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",TBS
+https://spinoff.link/ago15/ssiptv2.php?c=113
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Sundance Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Sundance Channel
+https://spinoff.link/ago15/ssiptv2.php?c=114
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Studio Universal" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Studio Universal
+https://spinoff.link/ago15/ssiptv2.php?c=115
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Space
+https://spinoff.link/ago15/ssiptv2.php?c=116
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Sony" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Sony
+https://spinoff.link/ago15/ssiptv2.php?c=117
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="ISAT" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",ISAT
+https://spinoff.link/ago15/ssiptv2.php?c=369
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Film&Arts" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Film&Arts
+https://spinoff.link/ago15/ssiptv2.php?c=370
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Syfy" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Syfy
+https://spinoff.link/ago15/ssiptv2.php?c=371
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="De Pelicula" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",De Pelicula
+https://spinoff.link/ago15/ssiptv2.php?c=324
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HBO plus" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",HBO plus
+https://spinoff.link/ago15/ssiptv2.php?c=59
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HBO Subtitulado" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",HBO Subtitulado
+https://spinoff.link/ago15/ssiptv2.php?c=60
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HBO Signature" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",HBO Signature
+https://spinoff.link/ago15/ssiptv2.php?c=61
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HBO Family" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",HBO Family
+https://spinoff.link/ago15/ssiptv2.php?c=62
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HBO 2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",HBO 2
+https://spinoff.link/ago15/ssiptv2.php?c=63
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HBO" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",HBO
+https://spinoff.link/ago15/ssiptv2.php?c=64
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Series Subtitulado" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Series Subtitulado
+https://spinoff.link/ago15/ssiptv2.php?c=78
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Movies" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Movies
+https://spinoff.link/ago15/ssiptv2.php?c=81
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Series" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Series
+https://spinoff.link/ago15/ssiptv2.php?c=79
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Family" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Family
+https://spinoff.link/ago15/ssiptv2.php?c=84
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Comedy" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Comedy
+https://spinoff.link/ago15/ssiptv2.php?c=85
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Classics" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Classics
+https://spinoff.link/ago15/ssiptv2.php?c=86
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Cinema Subtitulado" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Cinema Subtitulado
+https://spinoff.link/ago15/ssiptv2.php?c=87
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Cinema" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Cinema
+https://spinoff.link/ago15/ssiptv2.php?c=88
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Action MX" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Action MX
+https://spinoff.link/ago15/ssiptv2.php?c=89
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Premium Action" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Fox Premium Action
+https://spinoff.link/ago15/ssiptv2.php?c=90
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Max Up" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Max Up
+https://spinoff.link/ago15/ssiptv2.php?c=131
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Max Prime" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Max Prime
+https://spinoff.link/ago15/ssiptv2.php?c=132
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Max" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Max
+https://spinoff.link/ago15/ssiptv2.php?c=133
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Golden Plus" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Golden Plus
+https://spinoff.link/ago15/ssiptv2.php?c=327
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Golden Premium" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="CINE Y SERIES",Golden Premium
+https://spinoff.link/ago15/ssiptv2.php?c=66
+
+
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Telemundo" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Telemundo
+https://spinoff.link/ago15/ssiptv2.php?c=108
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="RCN Telenovelas" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",RCN Telenovelas
+https://spinoff.link/ago15/ssiptv2.php?c=118
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Pasiones" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Pasiones
+https://spinoff.link/ago15/ssiptv2.php?c=119
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Univision" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Univision
+https://spinoff.link/ago15/ssiptv2.php?c=102
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Unicable" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Unicable
+https://spinoff.link/ago15/ssiptv2.php?c=104
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Tru TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Tru TV
+https://spinoff.link/ago15/ssiptv2.php?c=105
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Tve" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Tve
+https://spinoff.link/ago15/ssiptv2.php?c=106
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Life Mex" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Fox Life Mex
+https://spinoff.link/ago15/ssiptv2.php?c=82
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Life" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Fox Life
+https://spinoff.link/ago15/ssiptv2.php?c=83
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Az Corazon" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Az Corazon
+https://spinoff.link/ago15/ssiptv2.php?c=4
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Az Mundo" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Az Mundo
+https://spinoff.link/ago15/ssiptv2.php?c=5
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="France 24" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",France 24
+https://spinoff.link/ago15/ssiptv2.php?c=71
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Glitz" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Glitz
+https://spinoff.link/ago15/ssiptv2.php?c=68
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HTV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",HTV
+https://spinoff.link/ago15/ssiptv2.php?c=57
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="HLN" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",HLN
+https://spinoff.link/ago15/ssiptv2.php?c=58
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="I.Sat" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",I.Sat
+https://spinoff.link/ago15/ssiptv2.php?c=53
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Hola TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Hola TV
+https://spinoff.link/ago15/ssiptv2.php?c=54
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="E !" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",E !
+https://spinoff.link/ago15/ssiptv2.php?c=46
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="El Gourmet" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",El Gourmet
+https://spinoff.link/ago15/ssiptv2.php?c=47
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Mas Chic" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Mas Chic
+https://spinoff.link/ago15/ssiptv2.php?c=48
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Comedy Central" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Comedy Central
+https://spinoff.link/ago15/ssiptv2.php?c=29
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="DHE" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",DHE
+https://spinoff.link/ago15/ssiptv2.php?c=31
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="DW" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",DW
+https://spinoff.link/ago15/ssiptv2.php?c=32
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Concert Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Concert Channel
+https://spinoff.link/ago15/ssiptv2.php?c=30
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="DW America" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",DW America
+https://spinoff.link/ago15/ssiptv2.php?c=33
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Antena 3 Internacional" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+https://spinoff.link/ago15/ssiptv2.php?c=7
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="BBC World" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",BBC World
+https://spinoff.link/ago15/ssiptv2.php?c=8
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Baby TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Baby TV
+https://spinoff.link/ago15/ssiptv2.php?c=9
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Bloomberg
+https://spinoff.link/ago15/ssiptv2.php?c=10
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="CNN Espanol" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",CNN Espanol
+https://spinoff.link/ago15/ssiptv2.php?c=11
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="CNN Internacional" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",CNN Internacional
+https://spinoff.link/ago15/ssiptv2.php?c=12
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cable Noticias" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Cable Noticias
+https://spinoff.link/ago15/ssiptv2.php?c=13
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Canal Claro" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Canal Claro
+https://spinoff.link/ago15/ssiptv2.php?c=14
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Caracol" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Caracol
+https://spinoff.link/ago15/ssiptv2.php?c=16
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Caracol Internacional" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="ENTRETENIMIENTO",Caracol Internacional
+
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 3 Sur
+https://spinoff.link/ago15/ssiptv2.php?c=72
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Sports 2 MX" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 2 MX
+https://spinoff.link/ago15/ssiptv2.php?c=74
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 2 Sur
+https://spinoff.link/ago15/ssiptv2.php?c=75
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Sports 1 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 1 Sur
+https://spinoff.link/ago15/ssiptv2.php?c=76
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fox Sports 1 MX" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fox Sports 1 MX
+https://spinoff.link/ago15/ssiptv2.php?c=77
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Claro Sports" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Claro Sports
+https://spinoff.link/ago15/ssiptv2.php?c=27
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Claro Sports Latinoamerica" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Claro Sports Latinoamerica
+https://spinoff.link/ago15/ssiptv2.php?c=28
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Golf Channel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Golf Channel
+https://spinoff.link/ago15/ssiptv2.php?c=65
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Espn Plus Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Espn Plus Sur
+https://spinoff.link/ago15/ssiptv2.php?c=94
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Espn 3 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Espn 3 Sur
+https://spinoff.link/ago15/ssiptv2.php?c=95
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Espn 2 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Espn 2 Sur
+https://spinoff.link/ago15/ssiptv2.php?c=96
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Espn 1 Sur" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Espn 1 Sur
+https://spinoff.link/ago15/ssiptv2.php?c=97
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Win Sports" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Win Sports
+https://spinoff.link/ago15/ssiptv2.php?c=98
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Gol TV Internacional" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Gol TV Internacional
+https://spinoff.link/ago15/ssiptv2.php?c=338
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Tigo Sports 1" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Tigo Sports 1
+https://spinoff.link/ago15/ssiptv2.php?c=339
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Tigo Sports 2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Tigo Sports 2
+https://spinoff.link/ago15/ssiptv2.php?c=340
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Tigo Sports 3" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Tigo Sports 3
+https://spinoff.link/ago15/ssiptv2.php?c=341
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Estrella tv" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Estrella tv
+https://spinoff.link/ago15/ssiptv2.php?c=342
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Bein sports ñ T" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Bein sports ñ T
+https://spinoff.link/ago15/ssiptv2.php?c=343
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Euro Sports 1" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Euro Sports 1
+https://spinoff.link/ago15/ssiptv2.php?c=344
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Euro Sports 2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Euro Sports 2
+https://spinoff.link/ago15/ssiptv2.php?c=345
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fightbox" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fightbox
+https://spinoff.link/ago15/ssiptv2.php?c=346
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Fight Time" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Fight Time
+https://spinoff.link/ago15/ssiptv2.php?c=347
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="MLB Network" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",MLB Network
+https://spinoff.link/ago15/ssiptv2.php?c=349
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Motorsports TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Motorsports TV
+https://spinoff.link/ago15/ssiptv2.php?c=350
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="RedBull" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",RedBull
+https://spinoff.link/ago15/ssiptv2.php?c=351
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Real Madrid tv" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Real Madrid tv
+https://spinoff.link/ago15/ssiptv2.php?c=352
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="UFC TV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",UFC TV
+https://spinoff.link/ago15/ssiptv2.php?c=353
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="movistar liga de Campeones" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",movistar liga de Campeones
+https://spinoff.link/ago15/ssiptv2.php?c=357
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Win Sports+" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="DEPORTES",Win Sports+
+https://spinoff.link/ago15/ssiptv2.php?c=374
+https://spinoff.link/ago15/ssiptv2.php?c=17
+
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="MTV Hits" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",MTV Hits
+https://spinoff.link/ago15/ssiptv2.php?c=49
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="MTV" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",MTV
+https://spinoff.link/ago15/ssiptv2.php?c=50
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Claro Music 1" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",Claro Music 1
+https://spinoff.link/ago15/ssiptv2.php?c=25
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Claro Music 2" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",Claro Music 2
+https://spinoff.link/ago15/ssiptv2.php?c=26
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Vh1 Classic" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",Vh1 Classic
+https://spinoff.link/ago15/ssiptv2.php?c=100
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Vh1" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",Vh1
+https://spinoff.link/ago15/ssiptv2.php?c=101
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Mtv Live" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="MUSICA",Mtv Live
+https://spinoff.link/ago15/ssiptv2.php?c=130
+
+
+
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Lazy Town" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Lazy Town
+https://spinoff.link/ago15/ssiptv2.php?c=235
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Barnie y sus amigos" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Barnie y sus amigos
+https://spinoff.link/ago15/ssiptv2.php?c=236
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Dora la exploradora" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Dora la exploradora
+https://spinoff.link/ago15/ssiptv2.php?c=237
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="PJ Masks" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",PJ Masks
+https://spinoff.link/ago15/ssiptv2.php?c=238
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="caillou" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",caillou
+https://spinoff.link/ago15/ssiptv2.php?c=239
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Jorge el Curioso" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Jorge el Curioso
+https://spinoff.link/ago15/ssiptv2.php?c=240
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="peppa pig" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",peppa pig
+https://spinoff.link/ago15/ssiptv2.php?c=241
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="happy tree friends" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",happy tree friends
+https://spinoff.link/ago15/ssiptv2.php?c=242
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Los picapiedras" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Los picapiedras
+https://spinoff.link/ago15/ssiptv2.php?c=243
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Le temes a la oscuridad" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Le temes a la oscuridad
+https://spinoff.link/ago15/ssiptv2.php?c=244
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Pantera Rosa 80s" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Pantera Rosa 80s
+https://spinoff.link/ago15/ssiptv2.php?c=245
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Correcaminos" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Correcaminos
+https://spinoff.link/ago15/ssiptv2.php?c=246
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Power Rangers" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Power Rangers
+https://spinoff.link/ago15/ssiptv2.php?c=247
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Cuentos Hermanos Grimm" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Cuentos Hermanos Grimm
+https://spinoff.link/ago15/ssiptv2.php?c=248
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Robotech" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Robotech
+https://spinoff.link/ago15/ssiptv2.php?c=249
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Estrenos 2018" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Estrenos 2018
+https://spinoff.link/ago15/ssiptv2.php?c=250
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",El Chapulin Colorado
+https://spinoff.link/ago15/ssiptv2.php?c=251
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Death Note" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Death Note
+https://spinoff.link/ago15/ssiptv2.php?c=252
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="CSI Miami" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",CSI Miami
+https://spinoff.link/ago15/ssiptv2.php?c=253
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Alf" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Alf
+https://spinoff.link/ago15/ssiptv2.php?c=254
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="X-men 90s" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",X-men 90s
+https://spinoff.link/ago15/ssiptv2.php?c=255
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Vete a la Versh" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Vete a la Versh
+https://spinoff.link/ago15/ssiptv2.php?c=256
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="The Walking Dead" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",The Walking Dead
+https://spinoff.link/ago15/ssiptv2.php?c=257
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Super campeones" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Super campeones
+https://spinoff.link/ago15/ssiptv2.php?c=258
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="strangerthings" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",strangerthings
+https://spinoff.link/ago15/ssiptv2.php?c=259
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Spiderman 80s" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Spiderman 80s
+https://spinoff.link/ago15/ssiptv2.php?c=260
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Sounth Park" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Sounth Park
+https://spinoff.link/ago15/ssiptv2.php?c=261
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Smallville" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Smallville
+https://spinoff.link/ago15/ssiptv2.php?c=262
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Shera" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Shera
+https://spinoff.link/ago15/ssiptv2.php?c=263
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Señor de los cielos" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Señor de los cielos
+https://spinoff.link/ago15/ssiptv2.php?c=264
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Sailormoon" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Sailormoon
+https://spinoff.link/ago15/ssiptv2.php?c=265
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Pokemon" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Pokemon
+https://spinoff.link/ago15/ssiptv2.php?c=266
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Pinky y Cerebro
+https://spinoff.link/ago15/ssiptv2.php?c=267
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Peliculas Terror" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Peliculas Terror
+https://spinoff.link/ago15/ssiptv2.php?c=268
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Pablo Escobar" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Pablo Escobar
+https://spinoff.link/ago15/ssiptv2.php?c=269
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Naruto" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Naruto
+https://spinoff.link/ago15/ssiptv2.php?c=270
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Mazinger Z" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Mazinger Z
+https://spinoff.link/ago15/ssiptv2.php?c=271
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Malcolm el de enmedio
+https://spinoff.link/ago15/ssiptv2.php?c=272
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Luis Miguel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Luis Miguel
+https://spinoff.link/ago15/ssiptv2.php?c=273
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Lucha Libre AAA" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Lucha Libre AAA
+https://spinoff.link/ago15/ssiptv2.php?c=274
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Los Thundercats" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Los Thundercats
+https://spinoff.link/ago15/ssiptv2.php?c=275
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Los Simpsons
+https://spinoff.link/ago15/ssiptv2.php?c=276
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",La Rosa de Guadalupe
+https://spinoff.link/ago15/ssiptv2.php?c=277
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Heman" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Heman
+https://spinoff.link/ago15/ssiptv2.php?c=278
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Game Of Throne" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Game Of Throne
+https://spinoff.link/ago15/ssiptv2.php?c=279
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Futurama" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Futurama
+https://spinoff.link/ago15/ssiptv2.php?c=280
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Dragon Ball Z
+https://spinoff.link/ago15/ssiptv2.php?c=281
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Dragon Ball Super
+https://spinoff.link/ago15/ssiptv2.php?c=282
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Dragon Ball GT
+https://spinoff.link/ago15/ssiptv2.php?c=283
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Dragon ball" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Dragon ball
+https://spinoff.link/ago15/ssiptv2.php?c=284
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Dinosaurios
+https://spinoff.link/ago15/ssiptv2.php?c=285
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Coraje el perro cobarde" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Coraje el perro cobarde
+https://spinoff.link/ago15/ssiptv2.php?c=286
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Años Maravillosos" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",Años Maravillosos
+https://spinoff.link/ago15/ssiptv2.php?c=287
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="La casa de papel" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",La casa de papel
+https://spinoff.link/ago15/ssiptv2.php?c=288
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="El chema" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",El chema
+https://spinoff.link/ago15/ssiptv2.php?c=289
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="El chavo" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",El chavo
+https://spinoff.link/ago15/ssiptv2.php?c=290
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="caballerosdel zodiaco" tvg-logo="https://imgur.com/Dn3LPJ6.png" group-title="24/7",caballerosdel zodiaco
+https://spinoff.link/ago15/ssiptv2.php?c=291
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Breaking bad" tvg-logo="https://i.blogs.es/16e585/breaking-bad/450_1000.jpg" group-title="24/7",Breaking bad
+https://spinoff.link/ago15/ssiptv2.php?c=292
+#EXTINF:-1 user-agent="sonpro" tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="https://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2018/19/bob_esponja_9564_800x576.png" group-title="24/7",Bob Esponja 24/7
+https://spinoff.link/ago15/ssiptv2.php?c=293
