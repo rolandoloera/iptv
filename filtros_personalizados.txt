@@ -1,0 +1,11 @@
+! Bloquear anuncios en ejemplo.com
+||ejemplo.com^$third-party
+
+! Bloquear imágenes en ejemplo.org
+||ejemplo.org/*.jpg
+||ejemplo.org/*.png
+
+! Excepción para permitir anuncios en ejemplo.com
+@@||ejemplo.com^$document
+@@||vix.com^$document
+@@||tv.teleclub.xyz^$document
