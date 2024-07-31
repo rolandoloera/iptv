@@ -8,4 +8,4 @@
 ! Excepción para permitir anuncios en ejemplo.com
 @@||ejemplo.com^$document
 @@||vix.com^$document
-@@||tv.teleclub.xyz^$document
+@@||tv.xteleclub.xyz^$document
