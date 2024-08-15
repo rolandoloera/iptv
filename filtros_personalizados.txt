@@ -10,3 +10,4 @@
 @@||vix.com^$document
 @@||tv.teleclub.xyz^$document
 @@||ad.soicos.com^$document
+@@||www.googleadservices.com^$document
